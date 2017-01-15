@@ -5,8 +5,9 @@
 	- Stores all the user information
 		| Email
 		| Password
-		| First and Last Name
-		| Job Title
+		| First Name
+		| Last Name
+		| Job 
 			| Signify if this user has admin privileges
 		| System ID
 		| Group ID
@@ -15,6 +16,4 @@
 
 	- Store the group information
 		| Group Name
-		| Group Members
-			| Signify if admin privileges
 		| Group ID
