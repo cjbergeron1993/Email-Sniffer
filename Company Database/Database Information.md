@@ -17,3 +17,25 @@
 	- Store the group information
 		| Group Name
 		| Group ID
+
+|| Payroll Database ||
+
+	- Stores information about the users payroll
+		| Full Time / Part Time
+		| Hourly Wage
+		| Hours per pay period
+		| Total Pay
+		| System ID
+		
+|| Personal Information Database ||
+
+	- Stores personal user information
+		| Address
+		| City
+		| State
+		| Zip Code
+		| Phone Number
+		| Date of Birth
+		| Bank Name
+		| Account Number
+		| System ID
