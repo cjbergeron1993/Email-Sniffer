@@ -9,12 +9,13 @@
 		| Last Name
 		| Job 
 			| Signify if this user has admin privileges
-		| System ID
+		| System ID*
 		| Group ID
 		
 || Group Database ||
 
 	- Store the group information
+		| System ID*
 		| Group Name
 		| Group ID
 
@@ -25,7 +26,7 @@
 		| Hourly Wage
 		| Hours per pay period
 		| Total Pay
-		| System ID
+		| System ID*
 		
 || Personal Information Database ||
 
@@ -38,4 +39,4 @@
 		| Date of Birth
 		| Bank Name
 		| Account Number
-		| System ID
+		| System ID*
