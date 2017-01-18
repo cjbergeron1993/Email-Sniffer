@@ -1,3 +1,7 @@
 # Email-Sniffer
 
-Will be filled out at a later date
+This project is a year long self built project. I'll be constructing a website using HTML5, CSS, and JS to mimick a "company website". It will have multiple features, from user login, personal profiles, group chats, admin accounts, email, and bank information to link where they will be paid. The majority of information will be stored in a Database that is stored and updated on a server created on a Raspberry Pi. This database will be linked to the website and update information as the users update it. 
+
+The goal of the project will be to allow users to connect / create accounts with the website and be able to communicate with each other. My goal would be to crack into the Raspberry Pi server, able to update and change information in the database without admin access, and able to monitor every users actions without having created an account on the website [only company employees are able to register]. I should be able to update and change information on the website, view user information, view emails between users, and able to change the emails information before the emails are opened. 
+
+The first step of the project will be to create a useable website that has the full functionality listed above. Once the website is created I'd move onto securing the website, and creating the database with full connectivity and real time updates when the users decide to change information. The final step will be writing the scripts to gain access to the website and database, all without being traced by the security that was setup. 
