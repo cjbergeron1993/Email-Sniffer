@@ -1,5 +1,7 @@
 # Database Information
 
+Database secured using Kerberos for authentication
+
 || User Database ||
 
 	- Stores all the user information
